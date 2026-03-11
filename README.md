@@ -10,4 +10,4 @@ cd band-name-generator
 npm install or npm i
 
 4. Start the server
-node index.js or with nodemon : nodemon index,js
+node index.js or with nodemon : nodemon index.js
