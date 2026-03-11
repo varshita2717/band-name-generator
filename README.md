@@ -1,7 +1,7 @@
 # band-name-generator
 Installation:
 1. Clone the repository
-git clone https://github.com/username/band-name-generator/
+git clone https://github.com/varshita2717/band-name-generator/
 
 2. Navigate to the project folder
 cd band-name-generator
